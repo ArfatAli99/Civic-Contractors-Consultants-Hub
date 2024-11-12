@@ -267,7 +267,7 @@ module.exports.sendMailAttachment = (from, to, subject, textBody, htmlBody , att
     secure: false,
     auth: {
       user: 'civicContractorsandConsultantshub321@gmail.com',
-      pass: 'UIpl#@2020'
+      pass: 'your-pass'
     },
     tls: {
       rejectUnauthorized: true
