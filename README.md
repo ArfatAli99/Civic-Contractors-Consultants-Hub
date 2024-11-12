@@ -6,7 +6,7 @@ Here’s a README file generated from the provided route files for the EBNA proj
 
 ## Overview
 
-The EBNA project provides a RESTful API to facilitate client, contractor, consultant, and admin interactions related to project management, notifications, and user data.
+The project provides a RESTful API to facilitate client, contractor, consultant, and admin interactions related to project management, notifications, and user data.
 
 ## User Roles
 
